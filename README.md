@@ -35,6 +35,19 @@ An interactive geographic data visualization tool using Google Maps API and AJAX
 **🎮 Game Development**  
 Created 2D/3D games inspired by titles like *Portal*, *Mario Kart*, and *Zelda* using C++ and SDL. Focused on realistic physics, AI pathfinding, and game loop architecture.
 
+
+## 🧑‍💻 Notable Projects
+
+### 🟣 Omnilore Membership Platform (CSCI 401 Capstone)
+Full-stack platform for managing membership, donations, and reporting for a nonprofit organization.  
+**Tech:** Next.js · Supabase · PostgreSQL · TypeScript · AWS  
+- Built secure login and permission-based admin dashboard  
+- Developed monthly financial and membership reports with PDF export  
+- Integrated mail-in order uploads, SKU filtering, and error handling  
+- Collaborated with a 4-person Agile team; deployed to AWS
+
+> ⚠️ Due to privacy concerns, source code is not publicly available.
+
 ---
 
 ## 💡 What Drives Me
